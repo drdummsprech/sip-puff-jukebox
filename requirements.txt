@@ -1,0 +1,16 @@
+crcmod==1.7
+ffmpeg-python==0.2.0
+future==0.18.2
+mutagen==1.45.1
+pkg-resources==0.0.0
+pycairo==1.20.0
+pyftdi==0.52.0
+PyGObject==3.38.0
+pyserial==3.5
+python-vlc==3.0.11115
+pyusb==1.1.0
+r128gain==1.0.3
+RPi.GPIO==0.7.0
+smbus==1.1.post2
+spidev==3.5
+tqdm==4.54.1
